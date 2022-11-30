@@ -1,0 +1,17 @@
+body{background-color: rgb(255, 0, 149);}
+
+
+header {font-size: 100px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;}
+
+main {color: rgb(238, 144, 205);font-size: 50px;text-align:left;}
+
+nav {color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    display:flex;
+    background-color: rgb(222, 134, 188)}
+ul {margin-left: 240px;}
